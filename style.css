@@ -1,0 +1,165 @@
+
+body
+{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+  color: #1e1d1c;
+  font-size: 20px;
+  position: relative;
+  padding-top: 2%;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-size: 35px;
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+h3 {
+  font-size: 35px;
+  font-family: 'Sedgwick Ave', cursive;
+  color: black;
+}
+
+h4 {
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
+  color: #1e1d1c;
+}
+
+h5 {
+  font-size: 60px;
+  font-family: 'Sedgwick Ave', cursive;
+  color: black;
+}
+
+h6 {
+  color: white;
+}
+
+left-nav {
+  font-family: 'Sedgwick Ave', cursive;}
+
+right-nav {
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+right-nav a {
+  color: hotpink;
+}
+
+right-nav a:hover {
+  color: red;
+  text-deceration: none;
+}
+
+.container-top {
+  background-color: #f2eeea;
+  width: 100%;
+  padding-top: 10%;
+  padding-bottom: 8%;
+  text-align: center;
+}
+
+.container-culture {
+  background-color: #f2eeea;
+  text-align: center;
+  width: 100%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  border-top-style: solid;
+  border-width: 5px;
+}
+
+.container-games {
+  background-color: #a6aab2;
+  text-align: center;
+  width: 100%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  border-top-style: solid;
+  border-width: 5px;
+}
+
+.container-music {
+  background-color: #f2eeea;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  border-top-style: solid;
+  border-width: 5px;
+  width: 100%;
+}
+
+.container-music a {
+  color: black;
+}
+
+.container-fluid p {
+  padding-bottom: 10%;
+}
+
+.contact {
+  background-color: #a6aab2;
+  text-align: center;
+  padding-top: 2%;
+  border-top-style: solid;
+  border-width: 5px;
+  width: 100%;
+}
+
+.contact ul {
+  list-style-type: none;
+  width: 80%;
+  display: inline-block;
+  margin-right: 3%;
+}
+
+.contact ul li {
+  display: inline-block;
+  padding: 1%;
+}
+
+.contact ul li a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.navbar-dark .navbar-toggler {
+  border-color:#343a40;
+}
+
+.navbar-toggler:not(:disabled):not(.disabled) {
+  outline: none;
+}
+
+
+@media screen and (max-width: 1035px) {
+  
+  .contact ul {
+    margin-right: 3.6%;
+  }
+  
+}
+
+@media screen and (max-width: 899px) {
+  
+  .contact ul {
+    margin-right: 4%;
+  }
+  
+}
+
+@media screen and (max-width: 599px) {
+
+  .container-top {
+    padding-top: 10%;
+}
+  
+  .contact ul {
+      margin-right: 7%;
+  }
+  
+}
