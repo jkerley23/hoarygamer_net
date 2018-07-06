@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: Kiss my piss
 date: '2018-06-14T12:57:40-06:00'
 thumbnail: /images/uploads/ultraman.jpg
