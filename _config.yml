@@ -12,7 +12,9 @@ collections:
   posts:
     title: Posts
     output: true
+    permalink: none
   uploads:
     title: Uploads
     output: true
+
 
