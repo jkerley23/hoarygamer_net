@@ -39,6 +39,6 @@ How does that sound when you're watching porn 10 to 12 times a day, teenagers?! 
 
 **More animals awkwardly watching**
 
-Cats like to pretend they're not watching, and dogs just 
+Cats like to pretend they're not watching, and dogs just smell you: The joy of boinking while your pets watch is an everyday challenge for most people that is almost never represented accurately in porn.
 
 How about some kind of cross-promotion with Garfield or McGruff, the crime-fighting dog? Listen up porno execs!
