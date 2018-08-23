@@ -37,4 +37,8 @@ Oh hey there, EMILIO FUCKING ESTEVEZ.
 
 How does that sound when you're watching porn 10 to 12 times a day, teenagers?! (And totally not married dudes, lol!)
 
-More animals awkwardly watching
+**More animals awkwardly watching**
+
+Cats like to pretend they're not watching, and dogs just 
+
+How about some kind of cross-promotion with Garfield or McGruff, the crime-fighting dog? Listen up porno execs!
