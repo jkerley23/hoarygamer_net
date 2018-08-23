@@ -34,6 +34,6 @@ Porn should take the opportunity to provide more realism in the form of the acto
 
 Oh hey there, EMILIO FUCKING ESTEVEZ. 
 
-How does that sounds when you're watching porn 10 to 12 times a day, teenagers! (And totally not married dudes, lol!)
+How does that sound when you're watching porn 10 to 12 times a day, teenagers?! (And totally not married dudes, lol!)
 
 1. More animals awkwardly watching
