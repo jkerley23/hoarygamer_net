@@ -16,10 +16,9 @@ So listen up Masters of Porn: We are looking to you, the true heroes, to set a g
 
 Hear our call, Masters of Porn! Heed our pleas! 
 
-
-
-Anyways, here are five ways porn can change the world for the better:
+Anyways, here are **five ways porn can change the world for the better:**
 
 1. More interracial bangin'
-
 2. More really nice and thoughtful fucking
+3. More guys jizzing on random objects
+4. More random b-grade celebrity cameos
