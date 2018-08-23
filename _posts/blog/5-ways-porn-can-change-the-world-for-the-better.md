@@ -20,7 +20,8 @@ Anyways, here are **five ways porn can change the world for the better:**
 
 1. More interracial bangin'
 2. More really nice and thoughtful fucking
-3. More guys jizzing on random objects
+
+**More guys jizzing on random objects**
 
 Let's face it: When you're first learning to fuck, and just watching porno constantly, you sometimes just don't know where to jizz.
 
@@ -30,10 +31,10 @@ And girls, don't act like you don't do it too! ;)
 
 Porn should take the opportunity to provide more realism in the form of the actors and actresses jizzing on things like stereos, baseball cards, mantles and marble busts of former president Jimmy Carter.
 
-1. More random b-grade celebrity cameos
+**More random b-grade celebrity cameos**
 
 Oh hey there, EMILIO FUCKING ESTEVEZ. 
 
 How does that sound when you're watching porn 10 to 12 times a day, teenagers?! (And totally not married dudes, lol!)
 
-1. More animals awkwardly watching
+More animals awkwardly watching
