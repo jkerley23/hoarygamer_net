@@ -67,7 +67,7 @@ title: Hoary Gamer Home
        <!-- TODO change this to site.games when you have content -->
       {% for item in site.posts limit:4 %}
         <div class="col-md-6">
-          <a href="{{item.path}}" target="_blank">
+          <a href="{{item.url}}" target="_blank">
             <img src="{{item.thumbnail}}">
           </a>
           <p style="color:black">{{item.title}}</p>
@@ -85,7 +85,7 @@ title: Hoary Gamer Home
     <div class="row">
       {% for item in site.music limit:4 %}
         <div class="col-md-6">
-          <a href="{{item.path}}" target="_blank">
+          <a href="{{item.url}}" target="_blank">
             <img src="{{item.thumbnail}}">
           </a>
           <p style="color:black">{{item.title}}</p>
@@ -106,7 +106,7 @@ title: Hoary Gamer Home
     <div class="row">
       {% for item in site.culture limit:4 %}
         <div class="col-md-6">
-          <a href="{{item.path}}" target="_blank">
+          <a href="{{item.url}}" target="_blank">
             <img src="{{item.thumbnail}}">
           </a>
           <p style="color:black">{{item.title}}</p>
